@@ -12,3 +12,5 @@ Steps include in analysis:
 4. Trend and pattern visualization
 
 5. Actionable insights to support business decisions
+
+<img width="1880" height="579" alt="Screenshot 2025-07-24 100152" src="https://github.com/user-attachments/assets/cc092756-3ecd-40e4-82af-40c75e530aeb" />
